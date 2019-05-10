@@ -5,7 +5,10 @@ Adapted for [`LitElement`](https://lit-element.polymer-project.org/) from `vaadi
 ## Installation
 
 ```bash
-npm i paged-grid
+git clone https://github.com/johnthad/paged-grid.git
+cd paged-grid
+npm install
+npm run start
 ```
 
 ## About This Build
